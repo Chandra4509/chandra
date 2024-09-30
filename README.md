@@ -42,7 +42,7 @@
     </style>
 </head>
 <body>
-    <h1>Hey [Her Name] 👋</h1>
+    <h1>Hey [Anamika] 👋</h1>
     <p>Are you ready for a fun little surprise? 🎁</p>
     
     <button onclick="startSpeechRecognition()">Say "show me" to begin... 🎤</button>
